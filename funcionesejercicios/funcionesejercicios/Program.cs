@@ -1,4 +1,6 @@
 ﻿
+using System.Runtime.InteropServices;
+
 namespace funcionesejercicios
 {
     public class Program
@@ -20,9 +22,13 @@ namespace funcionesejercicios
 
             //EJERCICIO 5
            //Console.WriteLine(numero);
+
+           //EJERCICIO 6
+           
+            /*int valor = 10;
+            f.Cambiar(valor);
+            Console.WriteLine(valor);*/
             
-
-
 
         }
 

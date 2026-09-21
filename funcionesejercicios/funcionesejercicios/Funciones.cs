@@ -29,12 +29,16 @@ namespace funcionesejercicios
             int = numero 10;
 
         }*/
-}  
-
-
+ 
+     /*public void Cambiar (int numero)
+        {
+            numero = 100;
+            
+        }*/
 
 
 
     }
 
     
+} 

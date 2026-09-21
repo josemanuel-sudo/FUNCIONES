@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno1\\Documents\\FUNCIONES\\funcionesejercicios\\funcionesejercicios\\funcionesejercicios.csproj": {}
+    "C:\\Users\\coper\\Documents\\FUNCIONES\\funcionesejercicios\\funcionesejercicios\\funcionesejercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno1\\Documents\\FUNCIONES\\funcionesejercicios\\funcionesejercicios\\funcionesejercicios.csproj": {
+    "C:\\Users\\coper\\Documents\\FUNCIONES\\funcionesejercicios\\funcionesejercicios\\funcionesejercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno1\\Documents\\FUNCIONES\\funcionesejercicios\\funcionesejercicios\\funcionesejercicios.csproj",
+        "projectUniqueName": "C:\\Users\\coper\\Documents\\FUNCIONES\\funcionesejercicios\\funcionesejercicios\\funcionesejercicios.csproj",
         "projectName": "funcionesejercicios",
-        "projectPath": "C:\\Users\\Alumno1\\Documents\\FUNCIONES\\funcionesejercicios\\funcionesejercicios\\funcionesejercicios.csproj",
-        "packagesPath": "C:\\Users\\Alumno1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno1\\Documents\\FUNCIONES\\funcionesejercicios\\funcionesejercicios\\obj\\",
+        "projectPath": "C:\\Users\\coper\\Documents\\FUNCIONES\\funcionesejercicios\\funcionesejercicios\\funcionesejercicios.csproj",
+        "packagesPath": "C:\\Users\\coper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coper\\Documents\\FUNCIONES\\funcionesejercicios\\funcionesejercicios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alumno1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\coper\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
