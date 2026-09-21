@@ -47,6 +47,15 @@ namespace funcionesejercicios
             Console.WriteLine("numero: " + numero);
             Console.WriteLine("doble: " + doble);
             Console.WriteLine("triple: " + triple);*/
+
+            //EJERCOICIO 9
+
+            // f.cuentatras(5);
+          
+
+            
+
+
             
         }
 

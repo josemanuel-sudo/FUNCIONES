@@ -50,7 +50,24 @@ namespace funcionesejercicios
             triple = numero * 3;
         }
 
+        public void cuentatras( int numero )
+        {
+            if (numero  <= 0)
+            {
+                return;
+            }
+             Console.WriteLine(numero); 
+ 
+            cuentatras(numero - 1);
+        }
+     
+     
+     
+     
+        
     }
+
+
 
     
 } 
