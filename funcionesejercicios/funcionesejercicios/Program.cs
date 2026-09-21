@@ -33,11 +33,20 @@ namespace funcionesejercicios
            //EJERCICIO 7
            
            
-            int valor = 10;
+            /*int valor = 10;
             f.Cambiar( ref valor);
-            Console.WriteLine(valor);
-           
-           
+            Console.WriteLine(valor);*/
+
+            //EJERCICIO 8
+
+            /*int numero = 5;
+            int doble;
+            int triple;
+
+            f.Calcular(numero, out doble, out triple);
+            Console.WriteLine("numero: " + numero);
+            Console.WriteLine("doble: " + doble);
+            Console.WriteLine("triple: " + triple);*/
             
         }
 

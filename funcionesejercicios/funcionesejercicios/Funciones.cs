@@ -43,7 +43,12 @@ namespace funcionesejercicios
         }
 
 
-
+        public void Calcular(int numero , out int doble , out int triple)
+        {
+            
+            doble = numero * 2;
+            triple = numero * 3;
+        }
 
     }
 
