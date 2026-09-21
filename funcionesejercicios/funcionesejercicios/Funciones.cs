@@ -92,6 +92,28 @@ namespace funcionesejercicios
         }
 
 
+            public void ValidarEdad(int edad)
+        {
+            if (edad < 0)
+            {
+                throw new Exception ("la edad no puede ser negativa.");
+
+            }
+
+            
+            
+
+        }
+            
+        
+
+
+
+
+         
+
+    
+
 
         
             

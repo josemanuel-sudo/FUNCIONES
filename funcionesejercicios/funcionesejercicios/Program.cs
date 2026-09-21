@@ -63,8 +63,23 @@ namespace funcionesejercicios
 
           // f.pedirEdad();
 
+          //EJERCICIO 12
 
+
+             try
+            {
+                Console.WriteLine("edad");
+                int edad = int.Parse(Console.ReadLine() ??"" );
+                f.ValidarEdad(edad);
+            }
+            catch (exceotion)
             
+            {
+               
+            
+        
+                
+            }
         }
 
 
