@@ -1,4 +1,5 @@
 using System.ComponentModel;
+using System.Security.Cryptography;
 
 namespace funcionesejercicios
 {
@@ -75,7 +76,20 @@ namespace funcionesejercicios
         }   
         
         
+        public void pedirEdad()
+        {
+            try
+            {
+                Console.WriteLine("introduce tu edad");
+                int edad = int.Parse(Console.ReadLine() ??"" );
+                Console.WriteLine("tu edad es :" + edad);
+            }
+            catch 
+            {
+                Console.WriteLine(" El valor introducido no es válido");
+            }
 
+        }
 
 
 

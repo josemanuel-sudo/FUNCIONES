@@ -56,7 +56,12 @@ namespace funcionesejercicios
 
             //EJERCICIO 10 
 
-            f.convertirnum("abc");
+           // f.convertirnum("abc");
+
+
+           //EJERCICICO 11
+
+          // f.pedirEdad();
 
 
             
