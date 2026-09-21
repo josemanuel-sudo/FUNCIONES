@@ -1,5 +1,6 @@
 ﻿
 using System.Runtime.InteropServices;
+using System.Threading.Tasks.Dataflow;
 
 namespace funcionesejercicios
 {
@@ -53,7 +54,9 @@ namespace funcionesejercicios
             // f.cuentatras(5);
           
 
-            
+            //EJERCICIO 10 
+
+            f.convertirnum("abc");
 
 
             

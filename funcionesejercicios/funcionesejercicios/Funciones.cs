@@ -60,9 +60,28 @@ namespace funcionesejercicios
  
             cuentatras(numero - 1);
         }
-     
-     
-     
+
+        public void convertirnum(string texto)
+        {
+            try
+            {
+                int numero = int.Parse(texto);
+                Console.WriteLine("Numero valido: "+ numero);
+            }
+            catch 
+            {
+                Console.WriteLine("Numero no valido");
+            }
+        }   
+        
+        
+
+
+
+
+        
+            
+            
      
         
     }
