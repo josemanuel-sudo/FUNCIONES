@@ -36,6 +36,13 @@ namespace funcionesejercicios
             
         }*/
 
+         public void Cambiar (ref int numero)
+        {
+            numero = 100;
+            
+        }
+
+
 
 
     }

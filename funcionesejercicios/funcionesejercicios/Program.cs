@@ -29,7 +29,16 @@ namespace funcionesejercicios
             f.Cambiar(valor);
             Console.WriteLine(valor);*/
             
-
+           
+           //EJERCICIO 7
+           
+           
+            int valor = 10;
+            f.Cambiar( ref valor);
+            Console.WriteLine(valor);
+           
+           
+            
         }
 
 
