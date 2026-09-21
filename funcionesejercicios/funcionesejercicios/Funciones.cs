@@ -17,6 +17,9 @@ namespace funcionesejercicios
             return a + b;
         }
 
-        
+        public double CalcularMedia(double a, double b, double c)
+        {
+            return (a+b+c/3);
+        }
     }
 }

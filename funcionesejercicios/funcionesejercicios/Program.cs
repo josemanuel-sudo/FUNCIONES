@@ -16,7 +16,8 @@ namespace funcionesejercicios
             //Console.WriteLine($"La suma es {f.Sumar(10,5)}");
         
             //Ejercicio 4
-            
+            //Console.WriteLine($"La media es {f.CalcularMedia(7.5,8,6.5)}");
+
         }
 
     }
