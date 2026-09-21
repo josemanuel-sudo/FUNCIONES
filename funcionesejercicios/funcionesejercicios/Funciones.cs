@@ -1,3 +1,5 @@
+using System.ComponentModel;
+
 namespace funcionesejercicios
 {
     public class Funciones
@@ -21,5 +23,18 @@ namespace funcionesejercicios
         {
             return (a+b+c/3);
         }
+
+       /* public void mostrar()
+        {
+            int = numero 10;
+
+        }*/
+}  
+
+
+
+
+
     }
-}
+
+    

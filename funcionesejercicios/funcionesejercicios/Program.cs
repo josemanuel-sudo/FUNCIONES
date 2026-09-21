@@ -18,7 +18,14 @@ namespace funcionesejercicios
             //Ejercicio 4
             //Console.WriteLine($"La media es {f.CalcularMedia(7.5,8,6.5)}");
 
+            //EJERCICIO 5
+           //Console.WriteLine(numero);
+            
+
+
+
         }
+
 
     }
 }
